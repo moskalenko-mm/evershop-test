@@ -11,7 +11,8 @@ function FeaturedCategories() {
           <img src="/men-banner.jpg" alt="Shop men" />
           <a
             className="absolute underline top-[20px] left-[20px] bg-white px-2"
-            href="#">
+            href="#"
+          >
             SHOP MEN
           </a>
         </div>
@@ -19,7 +20,8 @@ function FeaturedCategories() {
           <img src="/women-banner.jpg" alt="Shop women" />
           <a
             className="absolute underline top-[20px] left-[20px] bg-white px-2"
-            href="#">
+            href="#"
+          >
             SHOP WOMEN
           </a>
         </div>
@@ -27,7 +29,8 @@ function FeaturedCategories() {
           <img src="/kid-banner.jpg" alt="Shop kids" />
           <a
             className="absolute underline top-[20px] left-[20px] bg-white px-2"
-            href="#">
+            href="#"
+          >
             SHOP KIDS
           </a>
         </div>

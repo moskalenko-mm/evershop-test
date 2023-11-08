@@ -9,6 +9,7 @@
     "user:changePassword": "evershop user:changePassword"
   },
   "dependencies": {
-    "@evershop/evershop": "^1.0.0-rc.8"
+    "@evershop/evershop": "^1.0.0-rc.8",
+    "tailwindcss": "^3.3.3"
   }
 }
