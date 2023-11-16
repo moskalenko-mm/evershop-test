@@ -43,5 +43,5 @@ export default FeaturedCategories;
 
 export const layout = {
   areaId: "content",
-  sortOrder: 5,
+  sortOrder: 15,
 };
